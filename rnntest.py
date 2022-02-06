@@ -1,4 +1,4 @@
-from rnn import *
+from nn import *
 
 
 N = 1000
