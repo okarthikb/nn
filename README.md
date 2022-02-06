@@ -2,4 +2,4 @@
 
 Look @ the loss goin' down...
 
-<p align="centre"><img href="loss.png"></img></p>
+<p align="center"><img src="loss.png"></img></p>
