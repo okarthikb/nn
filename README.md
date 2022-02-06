@@ -2,4 +2,4 @@
 
 Look @ the loss goin' down...
 
-![](loss.png)
+<p align="center"><img href="loss.png"></img></p>
